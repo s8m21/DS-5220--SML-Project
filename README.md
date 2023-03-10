@@ -1,4 +1,4 @@
-# DS-5220-SML-Project
+# DS-5220 Supervised Machine Learning Project
 
 1) Designed a CNN-based classifier to predict Alzheimer's and distinguish between current stages of dementia. <br>
 2) Used feature selection to extract texture and shape aspects of the Hippocampus region from MRI scan. <br>
